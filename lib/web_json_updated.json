@@ -1,0 +1,166 @@
+{
+  "bulbasaur": {
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+    "four": {},
+    "two": {
+      "fire": true,
+      "flying": true,
+      "psychic": true,
+      "ice": true
+    },
+    "half": {
+      "grass": true,
+      "water": true,
+      "electric": true,
+      "fighting": true,
+      "fairy": true
+    },
+    "quarter": {},
+    "zero": {}
+  },
+  "ivysaur": {
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+    "four": {},
+    "two": {
+      "fire": true,
+      "flying": true,
+      "psychic": true,
+      "ice": true
+    },
+    "half": {
+      "grass": true,
+      "water": true,
+      "electric": true,
+      "fighting": true,
+      "fairy": true
+    },
+    "quarter": {},
+    "zero": {}
+  },
+  "venusaur": {
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+    "four": {},
+    "two": {
+      "fire": true,
+      "flying": true,
+      "psychic": true,
+      "ice": true
+    },
+    "half": {
+      "grass": true,
+      "water": true,
+      "electric": true,
+      "fighting": true,
+      "fairy": true
+    },
+    "quarter": {},
+    "zero": {}
+  },
+  "charmander": {
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+    "four": {},
+    "two": {
+      "water": true,
+      "ground": true,
+      "rock": true
+    },
+    "half": {
+      "fire": true,
+      "grass": true,
+      "ice": true,
+      "bug": true,
+      "steel": true,
+      "fairy": true
+    },
+    "quarter": {},
+    "zero": {}
+  },
+  "charmeleon": {
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
+    "four": {},
+    "two": {
+      "water": true,
+      "ground": true,
+      "rock": true
+    },
+    "half": {
+      "fire": true,
+      "grass": true,
+      "ice": true,
+      "bug": true,
+      "steel": true,
+      "fairy": true
+    },
+    "quarter": {},
+    "zero": {}
+  },
+  "charizard": {
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+    "four": {
+      "rock": true
+    },
+    "two": {
+      "water": true,
+      "electric": true
+    },
+    "half": {
+      "fire": true,
+      "grass": true,
+      "fighting": true,
+      "bug": true,
+      "steel": true
+    },
+    "quarter": {
+      "ground": true
+    },
+    "zero": {}
+  },
+  "squirtle": {
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+    "four": {},
+    "two": {
+      "grass": true,
+      "electric": true
+    },
+    "half": {
+      "fire": true,
+      "water": true,
+      "ice": true,
+      "steel": true
+    },
+    "quarter": {},
+    "zero": {}
+  },
+  "wartortle": {
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
+    "four": {},
+    "two": {
+      "grass": true,
+      "electric": true
+    },
+    "half": {
+      "fire": true,
+      "water": true,
+      "ice": true,
+      "steel": true
+    },
+    "quarter": {},
+    "zero": {}
+  },
+  "blastoise": {
+    "sprite": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
+    "four": {},
+    "two": {
+      "grass": true,
+      "electric": true
+    },
+    "half": {
+      "fire": true,
+      "water": true,
+      "ice": true,
+      "steel": true
+    },
+    "quarter": {},
+    "zero": {}
+  }
+}
